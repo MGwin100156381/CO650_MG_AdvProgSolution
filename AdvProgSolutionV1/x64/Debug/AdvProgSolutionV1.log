@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AdvProgSolutionV1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CO650_MG_AdvProgSolution.cpp
+  Manager.cpp
+  User.cpp
+  Event.cpp
+  eventSeat.cpp
+  Menu.cpp
+C:\Users\maxgo\OneDrive\Desktop\Uni\Y3\advProg\Finished\CO650_MG_AdvProgSolution\CO650_MG_AdvProgSolution\AdvProgSolutionV1\eventSeat.cpp(39,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\maxgo\OneDrive\Desktop\Uni\Y3\advProg\Finished\CO650_MG_AdvProgSolution\CO650_MG_AdvProgSolution\AdvProgSolutionV1\Menu.cpp(328,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Tickets.cpp
+  Generating Code...
+C:\Users\maxgo\OneDrive\Desktop\Uni\Y3\advProg\Finished\CO650_MG_AdvProgSolution\CO650_MG_AdvProgSolution\AdvProgSolutionV1\Tickets.h(120): warning C4715: 'tickets::purchaseReceipt': not all control paths return a value
+  AdvProgSolutionV1.vcxproj -> C:\Users\maxgo\OneDrive\Desktop\Uni\Y3\advProg\Finished\CO650_MG_AdvProgSolution\CO650_MG_AdvProgSolution\x64\Debug\CO650_MG_AdvProgSolution.exe
